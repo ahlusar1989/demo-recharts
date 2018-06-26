@@ -1,0 +1,21 @@
+{
+  "name": "recharts-playground",
+  "description": "CodeSandbox to experiment the Recharts framework",
+  "version": "0.0.0",
+  "dependencies": {
+    "styles": "0.2.1",
+    "recharts": "1.0.0-alpha.1",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "moment": "2.18.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
